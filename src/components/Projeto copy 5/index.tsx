@@ -10,7 +10,7 @@ const Projeto5 = () => {
       <Paragrafo tipo="secundario">
         Clone da Landing page da Disney Plus
       </Paragrafo>
-      <LinkBotao href="https://github-perfis-one.vercel.app/">
+      <LinkBotao href="https://clone-disneyplus-delta-neon.vercel.app/">
         Visualizar
       </LinkBotao>
     </Card>
