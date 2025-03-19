@@ -21,6 +21,7 @@ const Sobre = () => (
       tecnologia.
     </Paragrafo>
     <GithubSecao>
+      <img src="https://github-readme-stats.vercel.app/api?username=phdalmas&show_icons=true&theme=dracula" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdalmas&layout=compact&langs_count=5&theme=dracula" />
     </GithubSecao>
   </section>

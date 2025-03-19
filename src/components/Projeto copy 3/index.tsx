@@ -1,7 +1,7 @@
 import Paragrafo from '../Paragrafo'
 import Titulo from '../Titulo'
 
-import { Card, LinkBotao } from './styles'
+import { Card, LinkBotao } from '../styles'
 
 const Projeto4 = () => {
   return (
