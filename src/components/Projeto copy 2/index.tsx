@@ -6,7 +6,7 @@ import { Card, LinkBotao } from './styles'
 const Projeto3 = () => {
   return (
     <Card>
-      <Titulo>Projeto ECAC TALKS</Titulo>
+      <Titulo>Projeto EBAC TALKS</Titulo>
       <Paragrafo tipo="secundario">
         Projeto feito em HTML, CSS, JS e requisição AJAX
       </Paragrafo>

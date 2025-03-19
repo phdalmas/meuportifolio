@@ -6,21 +6,22 @@ const Sobre = () => (
   <section>
     <Titulo fontSize={16}>Sobre mim</Titulo>
     <Paragrafo tipo="principal">
-      Olá. Me chamo Pedro, tenho 30 anos e sou de Passo Fundo/RS. Sou engenheiro
-      civil de formação e atuo na área há 5 anos. A experiência nesta área
-      acrescentou muito no meu desenvolvimento pessoal, como minha comunicação,
-      a capacidade de resolução de problemas, gerenciamento sob pressão e gestão
-      de projetos. Gosto de estar aprendendo novas habilidades e me desafiando.
-      Para além da atuação como engenheiro civil, tenho interesse na área da
-      tecnologia desde muito cedo, tanto que meu início acadêmico foi na área da
-      engenharia elétrica. Hoje busco novas oportunidades para minha carreira, e
-      tenho me desafiado na área de tecnologia. Estou cursando Analise e
-      Desenvolvimento de Sistema pela Uniámerica, e também Desenvolvimento Full
-      Stack em Python pela EBAC e procurando novos desafios profissionais.
+      Olá. Me chamo Pedro, tenho 31 anos e sou de Passo Fundo/RS. Sou engenheiro
+      civil de formação desde 2019, e estou cursando Análise e Desenvolvimento
+      de Sistema pela Uniámerica. Desde março de 2024 trabalho na empresa Onbox
+      Design, da Austrália. Tenho trabalhado com TypeScript, JavaScript, React,
+      C# e outras linguagem na criação de um software para a área de
+      engenharia/arquitetura. Tenho experiencia na parte de testes unitários e
+      integração e também em PHP e Python por meio de projetos próprios. A
+      experiência na área de engenharia, onde atuei por 5 anos, acrescentou
+      muito no meu desenvolvimento pessoal, como minha comunicação, a capacidade
+      de resolução de problemas, gerenciamento sob pressão e gestão de projetos.
+      Gosto de estar aprendendo novas habilidades e me desafiando. Hoje busco
+      novas oportunidades para minha carreira, e tenho me desafiado na área de
+      tecnologia.
     </Paragrafo>
     <GithubSecao>
-      <img src="https://github-readme-stats.vercel.app/api?username=phdalmas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdalmas&layout=compact&langs_count=7&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdalmas&layout=compact&langs_count=5&theme=dracula" />
     </GithubSecao>
   </section>
 )
