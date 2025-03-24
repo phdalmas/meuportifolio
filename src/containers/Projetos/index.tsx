@@ -1,12 +1,12 @@
-import Projeto from '../../components/Projeto'
+import Projeto from '../../components/project-task-list'
 import Titulo from '../../components/Titulo'
-import Projeto2 from '../../components/Projeto copy'
+import Projeto2 from '../../components/project-github-search'
 
 import { Lista } from './styles'
-import Projeto3 from '../../components/Projeto copy 2'
-import Projeto4 from '../../components/Projeto copy 3'
-import Projeto5 from '../../components/Projeto copy 5'
-import Projeto6 from '../../components/Projeto copy 6'
+import Projeto3 from '../../components/project-ebac'
+import Projeto4 from '../../components/project-mtg'
+import Projeto5 from '../../components/project-clone'
+import Projeto6 from '../../components/project-linkedin'
 
 const Projetos = () => (
   <section>
